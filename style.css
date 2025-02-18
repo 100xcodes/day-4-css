@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap");
+
+/* . is used for classes */
+.heading {
+  color: blue;
+}
+
+.btn-black {
+  background-color: black;
+  color: white;
+}
+
+/* # is used for ids */
+#heading-id {
+  color: blue;
+}
+
+.heading-1 {
+  font-size: 45px;
+}
+
+/* Font Weight Bold = <b> */
+.project-item {
+  font-weight: bold;
+}
+
+.better-font {
+  font-family: "Grechen Fuemen", Arial;
+}
